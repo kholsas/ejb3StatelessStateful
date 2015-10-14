@@ -1,0 +1,15 @@
+####EJB-Example####
+Ejb-Example/target/**
+Ejb-Example/*.iml
+Ejb-Example/.classpath
+Ejb-Example/.project
+Ejb-Example/.idea/**
+Ejb-Example/.settings/**
+
+####EJB-Example-Client-Client####
+Ejb-Example-Client/target/**
+Ejb-Example-Client/*.iml
+Ejb-Example-Client/.classpath
+Ejb-Example-Client/.project
+Ejb-Example-Client/.idea/**
+Ejb-Example-Client/.settings/**
